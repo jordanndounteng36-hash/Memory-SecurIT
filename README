@@ -1,0 +1,24 @@
+# 🔐 Memory SecurIT
+
+## 📌 Description
+Jeu de Memory développé en C# avec WinForms.
+
+## 🎮 Fonctionnalités
+- Grille 4x4
+- Cartes retournables
+- Vérification des paires
+- Compteur d’essais
+- Chronomètre
+- Bouton Quitter
+
+## 🛠️ Technologies
+- C#
+- .NET
+- WinForms
+- Visual Studio
+
+## ▶️ Lancer le projet
+Ouvrir le fichier `.sln` avec Visual Studio puis cliquer sur ▶️
+
+## 👤 Auteur
+Projet réalisé dans le cadre d’un TP
